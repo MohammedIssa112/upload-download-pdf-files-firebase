@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085749573137",
+    "project_id": "fir-pdf-afcac",
+    "storage_bucket": "fir-pdf-afcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085749573137:android:098b351841d8f0c264a3b0",
+        "android_client_info": {
+          "package_name": "com.example.firebasepdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085749573137-73bklhv5r8rp0da7knjd5uspgc4o56fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz9SLpIim44w8F3BDo10dRxv6MVkO1as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085749573137-73bklhv5r8rp0da7knjd5uspgc4o56fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
